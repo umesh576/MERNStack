@@ -1,12 +1,11 @@
 "use strict";
 
-import Uj from "./UJ.JSX";
-
 function App() {
+  const address = "ktm";
+
   return (
     <>
-      <h1>hello umesh | umesh</h1>
-      <Uj />
+      <h1>hello umesh | umesh lives in {address}</h1>
     </>
   );
 }
