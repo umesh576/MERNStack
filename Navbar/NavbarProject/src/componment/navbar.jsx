@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="w-screen h-20 text-white  flex justify-between bg-blue-500">
       <div className="w-30 h-20 relative ml-5">
         <img
-          src="../public/logo.webp"
+          src="/logo.webp"
           alt=""
           className="w-30 h-19 object-cover p-1 rounded-2xl"
         />
